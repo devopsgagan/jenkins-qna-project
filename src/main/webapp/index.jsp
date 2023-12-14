@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h1>Welcome to the Upgrad DevOps Coaching and I'm Gagan</h1>
+    <h1>This Application Has been Deployed On DEV-Tomcat</h1>
 
     <form id="task-form">
         <label for="task-input">Task:</label>
