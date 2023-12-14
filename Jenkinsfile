@@ -23,7 +23,7 @@ pipeline {
         }
         stage('git checkout') {
             steps {
-                git branch: 'master', credentialsId: 'devopsgagan', url: 'https://github.com/devopsgagan/jenkins-freestyle.git'
+                git branch: 'main', credentialsId: 'git', url: 'https://github.com/devopsgagan/jenkins-qna-project.git'
             }
         }
         stage('maven clean and build'){
