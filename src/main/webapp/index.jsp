@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <h1>This Application Has been Deployed On DEV-Tomcat</h1>
+    <h1>This Application Has been Deployed On QA-Tomcat</h1>
 
     <form id="task-form">
         <label for="task-input">Task:</label>
